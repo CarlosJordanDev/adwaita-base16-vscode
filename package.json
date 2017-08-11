@@ -1,0 +1,46 @@
+{
+	"name": "adwaita-base16",
+	"displayName": "Adwaita Base16",
+	"description": "A gnome friendly theme",
+	"version": "0.0.1",
+	"publisher": "kesmarag",
+	"author": {
+		"name": "Costas Smaragdakis",
+		"email": "kesmarag@gmail.com",
+		"url": "http://www.tem.uoc.gr/~kesmarag"
+	},
+	"keywords": [
+		"base16",
+		"gnome",
+		"adwaita"
+	],
+	"engines": {
+		"vscode": "^1.14.0"
+	},
+	"icon": "base16.png",
+	"galleryBanner": {
+		"color": "#7eafc1",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kesmarag/adwaita-base16-vscode.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Adwaita Base16",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gnome-base16.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "90d578a3-a06a-4779-be95-7d80c027f921",
+		"publisherId": "1b91ed39-c583-45c8-8b9b-079e8556ede6",
+		"publisherDisplayName": "Costas Smaragdakis"
+	}
+}

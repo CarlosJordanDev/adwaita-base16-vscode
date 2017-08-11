@@ -1,0 +1,1 @@
+![Adwaita Base16](https://github.com/kesmarag/adwaita-base16-vscode/raw/master/./adwaita-base16.png)
