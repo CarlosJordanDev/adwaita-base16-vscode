@@ -2,7 +2,7 @@
 	"name": "adwaita-base16",
 	"displayName": "Adwaita Base16",
 	"description": "A gnome friendly theme",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "kesmarag",
 	"author": {
 		"name": "Costas Smaragdakis",
@@ -12,7 +12,8 @@
 	"keywords": [
 		"base16",
 		"gnome",
-		"adwaita"
+		"adwaita",
+		"linux"
 	],
 	"engines": {
 		"vscode": "^1.14.0"
